@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2401519d-4da8-434b-a81a-40d474115193" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/100.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/76.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/77.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/78.py" />
@@ -18,6 +20,20 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/89.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/90.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/91.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/92.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/93.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/94.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/95.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/96.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/97.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/98.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/99.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/countries-by-area.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/countries-clean.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/countries-missing.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/countries-raw.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/countries_missing_fixed.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/users.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,18 +48,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="90.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/90.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,6 +103,7 @@
         <option value="$PROJECT_DIR$/87.py" />
         <option value="$PROJECT_DIR$/88.py" />
         <option value="$PROJECT_DIR$/89.py" />
+        <option value="$PROJECT_DIR$/90.py" />
       </list>
     </option>
   </component>
@@ -146,24 +152,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.89">
-    <configuration default="false" name="85" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-videobook" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/85.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.90">
     <configuration default="false" name="86" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,6 +217,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-videobook" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/89.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="90" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-videobook" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/90.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -367,19 +373,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.85" />
-      <item index="1" class="java.lang.String" itemvalue="Python.86" />
-      <item index="2" class="java.lang.String" itemvalue="Python.87" />
-      <item index="3" class="java.lang.String" itemvalue="Python.88" />
-      <item index="4" class="java.lang.String" itemvalue="Python.89" />
+      <item index="0" class="java.lang.String" itemvalue="Python.86" />
+      <item index="1" class="java.lang.String" itemvalue="Python.87" />
+      <item index="2" class="java.lang.String" itemvalue="Python.88" />
+      <item index="3" class="java.lang.String" itemvalue="Python.89" />
+      <item index="4" class="java.lang.String" itemvalue="Python.90" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.89" />
-        <item index="1" class="java.lang.String" itemvalue="Python.88" />
-        <item index="2" class="java.lang.String" itemvalue="Python.87" />
-        <item index="3" class="java.lang.String" itemvalue="Python.86" />
-        <item index="4" class="java.lang.String" itemvalue="Python.85" />
+        <item index="0" class="java.lang.String" itemvalue="Python.90" />
+        <item index="1" class="java.lang.String" itemvalue="Python.89" />
+        <item index="2" class="java.lang.String" itemvalue="Python.88" />
+        <item index="3" class="java.lang.String" itemvalue="Python.87" />
+        <item index="4" class="java.lang.String" itemvalue="Python.86" />
       </list>
     </recent_temporary>
   </component>
@@ -398,9 +404,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.146875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.146875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30923077" sideWeight="0.1546875" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -777,11 +783,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/90.py">
+    <entry file="file://$PROJECT_DIR$/countries_big_area.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/90.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
