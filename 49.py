@@ -1,1 +1,0 @@
-pass1 = raw_input("Please enter your password: ")
